@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\bin\Debug\netcoreapp3.0\ltdaTercerNivel.exe
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\bin\Debug\netcoreapp3.0\ltdaTercerNivel.deps.json
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\bin\Debug\netcoreapp3.0\ltdaTercerNivel.runtimeconfig.json
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\bin\Debug\netcoreapp3.0\ltdaTercerNivel.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\bin\Debug\netcoreapp3.0\ltdaTercerNivel.dll
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\bin\Debug\netcoreapp3.0\ltdaTercerNivel.pdb
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\obj\Debug\netcoreapp3.0\ltdaTercerNivel.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\obj\Debug\netcoreapp3.0\ltdaTercerNivel.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\obj\Debug\netcoreapp3.0\ltdaTercerNivel.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\obj\Debug\netcoreapp3.0\ltdaTercerNivel.dll
+C:\Users\Usuario\source\repos\ltdaTercerNivel\ltdaTercerNivel\obj\Debug\netcoreapp3.0\ltdaTercerNivel.pdb
